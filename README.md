@@ -22,8 +22,9 @@ else:
 ```
 
 
-Operador	Tipo	Valor
+### Operador	Tipo	Valor
 
+```
 ==	Igualdade	Verifica a igualdade entre dois valores.
 !=  	Igualdade  	Verifica a diferença entre dois valores.
 > 	Comparação	Verificar se o valor A é maior que o valor B.
@@ -31,4 +32,5 @@ Operador	Tipo	Valor
 >=	Comparação	Verifica se o valor A é maior ou igual ao valor B.
 <=	Comparação	Verifica se o valor A é menor ou igual ao valor B.
 In	Seqüência	Verifica se o valor A está contido em um conjunto.
+```
 
