@@ -5,11 +5,13 @@
 
 O Foco principal desse módulo sao as condiçoes e repetiçoes em python!
 
->> Condicionais Aninhadas
+Condicionais Aninhadas
 
+```
 IF - SE
 ELIF - SENAO SE
 ELSE - SENAO
+```
 
 *Exemplo*
 ```
@@ -22,7 +24,7 @@ else:
 ```
 
 
-### Operador	Tipo	Valor
+#### Operador Tipo Valor
 
 ```
 ==	Igualdade	Verifica a igualdade entre dois valores.
