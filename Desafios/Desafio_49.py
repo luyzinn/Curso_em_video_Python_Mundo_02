@@ -21,7 +21,7 @@ print('=-'*15)
 print('   TABUADA DE MULTIPLICAÇÃO')
 print('=-'*15)
 
-n = int(input('\nDigite um valor para saber a tabuada: '))
+'''n = int(input('\nDigite um valor para saber a tabuada: '))
 contador = 0
 acumulador = 0
 
@@ -30,5 +30,9 @@ print(' ')
 for tabuada in range(1,11):
     contador = contador + 1
     resultado = n * contador
-    print('{}  x {:2} = {:2}'.format(n, contador, resultado))
+    print('{}  x {:2} = {:2}'.format(n, contador, resultado))'''
+
+numero = int(input('Digite u número para ver a tabuada: '))
+for tabuada in range(1,11):
+    print('{}  x {:2} = {:2}'.format(numero,tabuada,numero*tabuada)) #Outra forma de fazer - Mais simples
     
